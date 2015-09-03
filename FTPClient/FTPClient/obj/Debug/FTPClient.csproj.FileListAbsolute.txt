@@ -1,0 +1,8 @@
+c:\users\sreedhar.r\documents\visual studio 2013\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
+c:\users\sreedhar.r\documents\visual studio 2013\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+c:\users\sreedhar.r\documents\visual studio 2013\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+c:\users\sreedhar.r\documents\visual studio 2013\Projects\FTPClient\FTPClient\bin\Debug\System.Net.FtpClient.dll
+c:\users\sreedhar.r\documents\visual studio 2013\Projects\FTPClient\FTPClient\bin\Debug\System.Net.FtpClient.xml
+c:\users\sreedhar.r\documents\visual studio 2013\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.exe
+c:\users\sreedhar.r\documents\visual studio 2013\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.pdb
+c:\users\sreedhar.r\documents\visual studio 2013\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.csprojResolveAssemblyReference.cache
